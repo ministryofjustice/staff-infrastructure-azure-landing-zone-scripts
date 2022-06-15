@@ -1,0 +1,19 @@
+{
+    "environments" : {
+        "dev" : {
+            "bastion" : "bastion-dev",
+            "bastion_rg" : "rg-hub-internal-001",
+            "subscription" : "MoJ-OFFICIAL-Devl-Hub"
+        },
+        "prep" : {
+            "bastion" : "bastion-pre-prod",
+            "bastion_rg" : "rg-hub-internal-001",
+            "subscription" : "MoJ-OFFICIAL-Prep-Hub"
+        },
+        "prod" : {
+            "bastion" : "bastion-prod",
+            "bastion_rg" : "rg-hub-internal-001",
+            "subscription" : "MoJ-OFFICIAL-Prod-Hub"
+        }
+    }
+}

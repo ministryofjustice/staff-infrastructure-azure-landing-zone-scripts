@@ -1,0 +1,17 @@
+{
+    "vmjump001-dev": {
+        "id" : "/subscriptions/c5551d23-f465-4e90-9f4d-ef19eecff6a0/resourceGroups/RG-HUB-MANAGEMENT-001/providers/Microsoft.Compute/virtualMachines/vmjump001",
+        "environment" : "dev"
+    },
+    
+    "vmjump002-dev" : {
+        "id" : "/subscriptions/c5551d23-f465-4e90-9f4d-ef19eecff6a0/resourceGroups/RG-HUB-MANAGEMENT-001/providers/Microsoft.Compute/virtualMachines/vmjump002",
+        "environment" : "dev"
+    },
+    
+    "vmazup008" : {
+        "id" : "/subscriptions/a3700371-a683-46ec-92d9-3a23460fef30/resourceGroups/RG-EUCS-PRINT-AZUP-001/providers/Microsoft.Compute/virtualMachines/vmazup008",
+        "environment" : "prod"
+    }
+}
+    
